@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name "HalfMarble")(type "KiCad")(uri "${KIPRJMOD}/HalfMarble.pretty")(options "")(descr ""))
-)

@@ -1,0 +1,3173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/gerard/Play/halfmarble/repos/NEAToBOARD_closed/PCB/NEAToBOARD_ESP32.kicad_sch</source>
+    <date>Monday, December 26, 2022 at 08:15:07 AM</date>
+    <tool>Eeschema (6.0.10-0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>NEAToBOARD</title>
+        <company>halfmarble</company>
+        <rev>G</rev>
+        <date>2022-01-13</date>
+        <source>NEAToBOARD_ESP32.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/">
+      <title_block>
+        <title>NEAToBOARD</title>
+        <company>halfmarble</company>
+        <rev>D</rev>
+        <date>2021-11-20</date>
+        <source>NEAToBOARD_ESP32Extras.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>10uF</value>
+      <footprint>HalfMarble:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">2</field>
+        <field name="LCSC">C17024</field>
+        <field name="MANUFACTURER_NAME">Samsung Electro-Mechanics</field>
+        <field name="MANUFACTURER_PART_NUMBER">CL21A106KPFNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C17024"/>
+      <property name="MANUFACTURER_NAME" value="Samsung Electro-Mechanics"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="CL21A106KPFNNNE"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="COUNT" value="2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000604d1e33</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>4.7nF</value>
+      <footprint>HalfMarble:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">1</field>
+        <field name="LCSC">C50131</field>
+        <field name="MANUFACTURER_NAME">Samsung Electro-Mechanics</field>
+        <field name="MANUFACTURER_PART_NUMBER">CL21B472KBANNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C50131"/>
+      <property name="MANUFACTURER_NAME" value="Samsung Electro-Mechanics"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="CL21B472KBANNNC"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="COUNT" value="1"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62f3a1ad-64da-4eba-806a-eaa77edc5047</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1uF</value>
+      <footprint>HalfMarble:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">7</field>
+        <field name="LCSC">C24123</field>
+        <field name="MANUFACTURER_NAME">Samsung Electro-Mechanics</field>
+        <field name="MANUFACTURER_PART_NUMBER">CL21B105KOFNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C24123"/>
+      <property name="MANUFACTURER_NAME" value="Samsung Electro-Mechanics"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="CL21B105KOFNNNE"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="COUNT" value="7"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000604d1e2d</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1uF</value>
+      <footprint>HalfMarble:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">7</field>
+        <field name="LCSC">C24123</field>
+        <field name="MANUFACTURER_NAME">Samsung Electro-Mechanics</field>
+        <field name="MANUFACTURER_PART_NUMBER">CL21B105KOFNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C24123"/>
+      <property name="MANUFACTURER_NAME" value="Samsung Electro-Mechanics"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="CL21B105KOFNNNE"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="COUNT" value="7"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061406046</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1uF</value>
+      <footprint>HalfMarble:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">7</field>
+        <field name="LCSC">C24123</field>
+        <field name="MANUFACTURER_NAME">Samsung Electro-Mechanics</field>
+        <field name="MANUFACTURER_PART_NUMBER">CL21B105KOFNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C24123"/>
+      <property name="MANUFACTURER_NAME" value="Samsung Electro-Mechanics"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="CL21B105KOFNNNE"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="COUNT" value="7"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f1e1f24c-41e3-4f21-92cb-e7d971966935</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1uF</value>
+      <footprint>HalfMarble:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">7</field>
+        <field name="LCSC">C24123</field>
+        <field name="MANUFACTURER_NAME">Samsung Electro-Mechanics</field>
+        <field name="MANUFACTURER_PART_NUMBER">CL21B105KOFNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C24123"/>
+      <property name="MANUFACTURER_NAME" value="Samsung Electro-Mechanics"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="CL21B105KOFNNNE"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="COUNT" value="7"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000614a8d13</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>10uF</value>
+      <footprint>HalfMarble:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">2</field>
+        <field name="LCSC">C17024</field>
+        <field name="MANUFACTURER_NAME">Samsung Electro-Mechanics</field>
+        <field name="MANUFACTURER_PART_NUMBER">CL21A106KPFNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C17024"/>
+      <property name="MANUFACTURER_NAME" value="Samsung Electro-Mechanics"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="CL21A106KPFNNNE"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="COUNT" value="2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060319744</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>1uF</value>
+      <footprint>HalfMarble:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">7</field>
+        <field name="LCSC">C24123</field>
+        <field name="MANUFACTURER_NAME">Samsung Electro-Mechanics</field>
+        <field name="MANUFACTURER_PART_NUMBER">CL21B105KOFNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C24123"/>
+      <property name="MANUFACTURER_NAME" value="Samsung Electro-Mechanics"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="CL21B105KOFNNNE"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="COUNT" value="7"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>006dbd38-e960-4c5d-b102-3618af8af96c</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1uF</value>
+      <footprint>HalfMarble:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">7</field>
+        <field name="LCSC">C24123</field>
+        <field name="MANUFACTURER_NAME">Samsung Electro-Mechanics</field>
+        <field name="MANUFACTURER_PART_NUMBER">CL21B105KOFNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C24123"/>
+      <property name="MANUFACTURER_NAME" value="Samsung Electro-Mechanics"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="CL21B105KOFNNNE"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="COUNT" value="7"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060318c0b</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>1uF</value>
+      <footprint>HalfMarble:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">7</field>
+        <field name="LCSC">C24123</field>
+        <field name="MANUFACTURER_NAME">Samsung Electro-Mechanics</field>
+        <field name="MANUFACTURER_PART_NUMBER">CL21B105KOFNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C24123"/>
+      <property name="MANUFACTURER_NAME" value="Samsung Electro-Mechanics"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="CL21B105KOFNNNE"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="COUNT" value="7"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060adeafe</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>12pF</value>
+      <footprint>HalfMarble:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">2</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value=""/>
+      <property name="MANUFACTURER_NAME" value=""/>
+      <property name="MANUFACTURER_PART_NUMBER" value=""/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="COUNT" value="2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060452ffc</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>12pF</value>
+      <footprint>HalfMarble:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">2</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value=""/>
+      <property name="MANUFACTURER_NAME" value=""/>
+      <property name="MANUFACTURER_PART_NUMBER" value=""/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="COUNT" value="2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060451aad</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>BAT20J</value>
+      <footprint>HalfMarble:D_SOD-123</footprint>
+      <fields>
+        <field name="COUNT">3</field>
+        <field name="LCSC">C8598</field>
+        <field name="MANUFACTURER_NAME">Changjiang Electronics Tech (CJ)</field>
+        <field name="MANUFACTURER_PART_NUMBER">B5819W</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky_Small" description="Schottky diode, small symbol"/>
+      <property name="LCSC" value="C8598"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Changjiang Electronics Tech (CJ)"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="B5819W"/>
+      <property name="COUNT" value="3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000614410ef</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>BLUE</value>
+      <footprint>HalfMarble:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">1</field>
+        <field name="LCSC">C99870</field>
+        <field name="MANUFACTURER_NAME">Everlight Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">17-21/BHC-AP1Q2/3T</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="LCSC" value="C99870"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Everlight Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="17-21/BHC-AP1Q2/3T"/>
+      <property name="COUNT" value="1"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060b23e28</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>YELLOW</value>
+      <footprint>HalfMarble:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">2</field>
+        <field name="LCSC">C91839</field>
+        <field name="MANUFACTURER_NAME">Everlight Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">17-21UYC/S530-A3/TR8</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="LCSC" value="C91839"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Everlight Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="17-21UYC/S530-A3/TR8"/>
+      <property name="COUNT" value="2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000604e6163</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>BAT20J</value>
+      <footprint>HalfMarble:D_SOD-123</footprint>
+      <fields>
+        <field name="COUNT">3</field>
+        <field name="LCSC">C8598</field>
+        <field name="MANUFACTURER_NAME">Changjiang Electronics Tech (CJ)</field>
+        <field name="MANUFACTURER_PART_NUMBER">B5819W</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky_Small" description="Schottky diode, small symbol"/>
+      <property name="LCSC" value="C8598"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Changjiang Electronics Tech (CJ)"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="B5819W"/>
+      <property name="COUNT" value="3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>224cf3d5-8a08-4698-ac73-33302935c917</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>GREEN</value>
+      <footprint>HalfMarble:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">21</field>
+        <field name="LCSC">C142303</field>
+        <field name="MANUFACTURER_NAME">Everlight Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">17-21SYGC/S530-E3/TR8 </field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="LCSC" value="C142303"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Everlight Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="17-21SYGC/S530-E3/TR8 "/>
+      <property name="COUNT" value="21"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>034f2eef-5fe4-4b01-926c-989d5b2d1e4b</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>500mA</value>
+      <footprint>HalfMarble:Fuse_1206_3216Metric</footprint>
+      <fields>
+        <field name="COUNT">1</field>
+        <field name="LCSC">C369159</field>
+        <field name="MANUFACTURER_NAME">Jinrui Electronic Materials Co.</field>
+        <field name="MANUFACTURER_PART_NUMBER">JK-NSMD050-13.2V</field>
+      </fields>
+      <libsource lib="Device" part="Polyfuse_Small" description="Resettable fuse, polymeric positive temperature coefficient, small symbol"/>
+      <property name="LCSC" value="C369159"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Jinrui Electronic Materials Co."/>
+      <property name="MANUFACTURER_PART_NUMBER" value="JK-NSMD050-13.2V"/>
+      <property name="COUNT" value="1"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006050edfe</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>USB_B_Micro</value>
+      <footprint>HalfMarble:USB_Micro-B_Molex-105017-0001</footprint>
+      <fields>
+        <field name="COUNT">1</field>
+        <field name="LCSC">C404969</field>
+        <field name="MANUFACTURER_NAME">SHOU HAN</field>
+        <field name="MANUFACTURER_PART_NUMBER">MicroXNJ</field>
+      </fields>
+      <libsource lib="Connector" part="USB_B_Micro" description="USB Micro Type B connector"/>
+      <property name="LCSC" value="C404969"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="SHOU HAN"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="MicroXNJ"/>
+      <property name="COUNT" value="1"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000613f55da</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>PROGRGAM</value>
+      <footprint>HalfMarble:PinSocket_1x06_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="COUNT">1</field>
+        <field name="LCSC">C40877</field>
+        <field name="MANUFACTURER_NAME">BOOMELE(Boom Precision Elec)</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x06" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="COUNT" value="1"/>
+      <property name="LCSC" value="C40877"/>
+      <property name="MANUFACTURER_NAME" value="BOOMELE(Boom Precision Elec)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4534fdb3-cc15-4ae7-823c-ca4c96fb676a</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>3.3V</value>
+      <footprint>HalfMarble:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="COUNT">2</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="COUNT" value="2"/>
+      <property name="MANUFACTURER_NAME" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006052a2cd</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>3.3V</value>
+      <footprint>HalfMarble:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="COUNT">2</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="COUNT" value="2"/>
+      <property name="MANUFACTURER_NAME" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060529321</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>JTAG</value>
+      <footprint>HalfMarble:PinSocket_1x06_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="COUNT">1</field>
+        <field name="LCSC">C40877</field>
+        <field name="MANUFACTURER_NAME">BOOMELE(Boom Precision Elec)</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x06" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="COUNT" value="1"/>
+      <property name="LCSC" value="C40877"/>
+      <property name="MANUFACTURER_NAME" value="BOOMELE(Boom Precision Elec)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006063c825</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>VBAT IN</value>
+      <footprint>HalfMarble:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal</footprint>
+      <fields>
+        <field name="COUNT">1</field>
+        <field name="LCSC">C155876</field>
+        <field name="MANUFACTURER_NAME">Ckmtw(Shenzhen Cankemeng)</field>
+        <field name="MANUFACTURER_PART_NUMBER">C155876</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="COUNT" value="1"/>
+      <property name="LCSC" value="C155876"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Ckmtw(Shenzhen Cankemeng)"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="C155876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000604549de</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Header_01x14</value>
+      <footprint>HalfMarble:PinHeader_1x14_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="COUNT">2</field>
+        <field name="LCSC">C113597</field>
+        <field name="MANUFACTURER_NAME">Nextron(Nextronics Engineering)</field>
+        <field name="MANUFACTURER_PART_NUMBER">Z-211-4011-0021-001</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x14" description="Generic connector, single row, 01x14, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="COUNT" value="2"/>
+      <property name="LCSC" value="C113597"/>
+      <property name="MANUFACTURER_NAME" value="Nextron(Nextronics Engineering)"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="Z-211-4011-0021-001"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000604df7f7</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>Header_01x14</value>
+      <footprint>HalfMarble:PinHeader_1x14_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="COUNT">2</field>
+        <field name="LCSC">C113597</field>
+        <field name="MANUFACTURER_NAME">Nextron(Nextronics Engineering)</field>
+        <field name="MANUFACTURER_PART_NUMBER">Z-211-4011-0021-001</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x14" description="Generic connector, single row, 01x14, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="COUNT" value="2"/>
+      <property name="LCSC" value="C113597"/>
+      <property name="MANUFACTURER_NAME" value="Nextron(Nextronics Engineering)"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="Z-211-4011-0021-001"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07055ea6-725b-4dd0-b016-928258336034</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>Si2301</value>
+      <footprint>HalfMarble:SOT-23</footprint>
+      <fields>
+        <field name="COUNT">1</field>
+        <field name="LCSC">C10487</field>
+        <field name="MANUFACTURER_NAME">Vishay Intertech</field>
+        <field name="MANUFACTURER_PART_NUMBER">SI2301CDS-T1-GE3</field>
+      </fields>
+      <libsource lib="NEAToBOARD_ESP32-rescue" part="MOSFET_PCH-SI2309DS-SparkFun-DiscreteSemi" description=""/>
+      <property name="LCSC" value="C10487"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Vishay Intertech"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="SI2301CDS-T1-GE3"/>
+      <property name="COUNT" value="1"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006144804b</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>S8050</value>
+      <footprint>HalfMarble:TSOT-23</footprint>
+      <fields>
+        <field name="COUNT">2</field>
+        <field name="LCSC">C2146</field>
+        <field name="MANUFACTURER_NAME">Changjiang Electronics Tech (CJ)</field>
+        <field name="MANUFACTURER_PART_NUMBER">S8050</field>
+      </fields>
+      <libsource lib="Device" part="Q_NPN_BCE" description="NPN transistor, base/collector/emitter"/>
+      <property name="COUNT" value="2"/>
+      <property name="LCSC" value="C2146"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Changjiang Electronics Tech (CJ)"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="S8050"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b204200-a9c7-4ea5-aff8-95331cb3e560</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>S8050</value>
+      <footprint>HalfMarble:TSOT-23</footprint>
+      <fields>
+        <field name="COUNT">2</field>
+        <field name="LCSC">C2146</field>
+        <field name="MANUFACTURER_NAME">Changjiang Electronics Tech (CJ)</field>
+        <field name="MANUFACTURER_PART_NUMBER">S8050</field>
+      </fields>
+      <libsource lib="Device" part="Q_NPN_BCE" description="NPN transistor, base/collector/emitter"/>
+      <property name="COUNT" value="2"/>
+      <property name="LCSC" value="C2146"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Changjiang Electronics Tech (CJ)"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="S8050"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d39e95e-c39b-471b-a353-2f5d328b179d</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1M</value>
+      <footprint>HalfMarble:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">1</field>
+        <field name="LCSC">C26115</field>
+        <field name="MANUFACTURER_NAME">Uniroyal Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">0805W8J0105T5E</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C26115"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Uniroyal Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="0805W8J0105T5E"/>
+      <property name="COUNT" value="1"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16c2a848-884a-42bf-8f8d-0e62376e17eb</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>100K</value>
+      <footprint>HalfMarble:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">1</field>
+        <field name="LCSC">C25611</field>
+        <field name="MANUFACTURER_NAME">Uniroyal Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">0805W8J0104T5E</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25611"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Uniroyal Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="0805W8J0104T5E"/>
+      <property name="COUNT" value="1"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061402e02</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>3.9K</value>
+      <footprint>HalfMarble:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">1</field>
+        <field name="LCSC">C17614</field>
+        <field name="MANUFACTURER_NAME">Uniroyal Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">0805W8F3901T5E</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MANUFACTURER_NAME" value="Uniroyal Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="0805W8F3901T5E"/>
+      <property name="LCSC" value="C17614"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="COUNT" value="1"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060b25a77</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>2.7K</value>
+      <footprint>HalfMarble:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">9</field>
+        <field name="LCSC">C17530</field>
+        <field name="MANUFACTURER_NAME">Uniroyal Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">0805W8F2701T5E</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MANUFACTURER_NAME" value="Uniroyal Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="0805W8F2701T5E"/>
+      <property name="LCSC" value="C17530"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="COUNT" value="9"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000604e6169</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>470K 0.1%</value>
+      <footprint>HalfMarble:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">2</field>
+        <field name="LCSC">C706281</field>
+        <field name="MANUFACTURER_NAME">YAGEO</field>
+        <field name="MANUFACTURER_PART_NUMBER">RT0805BRE07470RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C706281"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="YAGEO"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="RT0805BRE07470RL"/>
+      <property name="COUNT" value="2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>308e0094-abf1-41b3-aa7d-358c4288dbb2</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>470K 0.1%</value>
+      <footprint>HalfMarble:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">2</field>
+        <field name="LCSC">C706281</field>
+        <field name="MANUFACTURER_NAME">YAGEO</field>
+        <field name="MANUFACTURER_PART_NUMBER">RT0805BRE07470RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C706281"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="YAGEO"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="RT0805BRE07470RL"/>
+      <property name="COUNT" value="2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>beffd2d3-847b-451f-8b44-2b71e87ea8fd</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>2.7K</value>
+      <footprint>HalfMarble:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">9</field>
+        <field name="LCSC">C17530</field>
+        <field name="MANUFACTURER_NAME">Uniroyal Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">0805W8F2701T5E</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MANUFACTURER_NAME" value="Uniroyal Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="0805W8F2701T5E"/>
+      <property name="LCSC" value="C17530"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="COUNT" value="9"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e3e9d97-658e-4518-8a24-5a8d59184a0c</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>10K</value>
+      <footprint>HalfMarble:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">8</field>
+        <field name="LCSC">C17414</field>
+        <field name="MANUFACTURER_NAME">Uniroyal Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">0805W8F1002T5E</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Uniroyal Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="0805W8F1002T5E"/>
+      <property name="COUNT" value="8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060ade16e</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>10K</value>
+      <footprint>HalfMarble:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">8</field>
+        <field name="LCSC">C17414</field>
+        <field name="MANUFACTURER_NAME">Uniroyal Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">0805W8F1002T5E</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Uniroyal Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="0805W8F1002T5E"/>
+      <property name="COUNT" value="8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000609c4d0e</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>10K</value>
+      <footprint>HalfMarble:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">8</field>
+        <field name="LCSC">C17414</field>
+        <field name="MANUFACTURER_NAME">Uniroyal Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">0805W8F1002T5E</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Uniroyal Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="0805W8F1002T5E"/>
+      <property name="COUNT" value="8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000609c5848</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>Toggle</value>
+      <footprint>HalfMarble:SWITCH_SPST_SMD_A</footprint>
+      <fields>
+        <field name="COUNT">1</field>
+        <field name="LCSC">C128955</field>
+        <field name="MANUFACTURER_NAME">Korean Hroparts Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">K3-1296S-E1</field>
+      </fields>
+      <libsource lib="SparkFun-Switches" part="SWITCH_TOGGLE_SPST_RIGHT_ANGLE" description=""/>
+      <property name="Field4" value=""/>
+      <property name="COUNT" value="1"/>
+      <property name="LCSC" value="C128955"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Korean Hroparts Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="K3-1296S-E1"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c96629b-aba6-4c89-b2c1-6a2a12861d58</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>Switch small</value>
+      <footprint>HalfMarble:PTS810SJG250SMTRLFS</footprint>
+      <fields>
+        <field name="COUNT">4</field>
+        <field name="LCSC">C92589</field>
+        <field name="MANUFACTURER_NAME">Korean Hroparts Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">K2-1808SN-A4SW-01</field>
+      </fields>
+      <libsource lib="PTS810SJK250SMTRLFS" part="PTS810SJK250SMTRLFS" description=""/>
+      <property name="MANUFACTURER_NAME" value="Korean Hroparts Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="K2-1808SN-A4SW-01"/>
+      <property name="LCSC" value="C92589"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="COUNT" value="4"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060719e05</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ESP32-WROOM-32D</value>
+      <footprint>HalfMarble:ESP32-WROOM-32</footprint>
+      <fields>
+        <field name="COUNT">1</field>
+        <field name="LCSC">C473012</field>
+        <field name="MANUFACTURER_NAME">Espressif Systems</field>
+        <field name="MANUFACTURER_PART_NUMBER">ESP32-WROOM-32D</field>
+      </fields>
+      <libsource lib="RF_Module" part="ESP32-WROOM-32D" description="RF Module, ESP32-D0WD SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD"/>
+      <property name="LCSC" value="C473012"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Espressif Systems"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="ESP32-WROOM-32D"/>
+      <property name="COUNT" value="1"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000602a4f3c</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>Main LDO ME6211</value>
+      <footprint>HalfMarble:SOT-23-5</footprint>
+      <fields>
+        <field name="COUNT">1</field>
+        <field name="LCSC">C82942</field>
+        <field name="MANUFACTURER_NAME">MICRONE(Nanjing Micro One Elec)</field>
+        <field name="MANUFACTURER_PART_NUMBER">ME6211C33M5G-N </field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="ADP7142AUJZ-3.3" description="200mA, Low Noise, CMOS Low Dropout Regulator, Positive, 3.3V Fixed Output, TSOT-23-5"/>
+      <property name="LCSC" value="C82942"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="MICRONE(Nanjing Micro One Elec)"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="ME6211C33M5G-N "/>
+      <property name="COUNT" value="1"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006143fcf6</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>USB LDO XC6206</value>
+      <footprint>HalfMarble:SOT-23</footprint>
+      <fields>
+        <field name="COUNT">1</field>
+        <field name="LCSC">C5446</field>
+        <field name="MANUFACTURER_NAME">Torex Semicon</field>
+        <field name="MANUFACTURER_PART_NUMBER">XC6206P332MR</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="XC6206PxxxMR" description="Positive 60-250mA Low Dropout Regulator, Fixed Output, SOT-23"/>
+      <property name="COUNT" value="1"/>
+      <property name="LCSC" value="C5446"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Torex Semicon"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="XC6206P332MR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d28f4358-13bf-4bdf-9b2c-78d3ac6d91b6</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>USB-Serial CH343C</value>
+      <footprint>HalfMarble:SOIC-16_3.9x9.9mm_P1.27mm</footprint>
+      <fields>
+        <field name="COUNT">1</field>
+        <field name="LCSC">C2844153</field>
+        <field name="MANUFACTURER_NAME">Jiangsu Qin Heng</field>
+        <field name="MANUFACTURER_PART_NUMBER">CH343C</field>
+      </fields>
+      <libsource lib="Interface_USB" part="CH340C" description="USB serial converter, UART, SOIC-16"/>
+      <property name="COUNT" value="1"/>
+      <property name="LCSC" value="C2844153"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Jiangsu Qin Heng"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="CH343C"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e504208-b253-4291-a342-eea1d7c2e4e9</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>32KHz</value>
+      <footprint>HalfMarble:XTAL_ABS07-32.768KHZ-T</footprint>
+      <fields>
+        <field name="COUNT">1</field>
+        <field name="LCSC">C32346</field>
+        <field name="MANUFACTURER_NAME">Seiko Epson</field>
+        <field name="MANUFACTURER_PART_NUMBER">Q13FC1350000400</field>
+      </fields>
+      <libsource lib="Device" part="Crystal_Small" description="Two pin crystal, small symbol"/>
+      <property name="LCSC" value="C32346"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Seiko Epson"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="Q13FC1350000400"/>
+      <property name="COUNT" value="1"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060673825</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>1uF</value>
+      <footprint>HalfMarble:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">7</field>
+        <field name="LCSC">C24123</field>
+        <field name="MANUFACTURER_NAME">Samsung Electro-Mechanics</field>
+        <field name="MANUFACTURER_PART_NUMBER">CL21B105KOFNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C24123"/>
+      <property name="MANUFACTURER_NAME" value="Samsung Electro-Mechanics"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="CL21B105KOFNNNE"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="COUNT" value="7"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>d5b446ee-56bf-4002-9b65-32ef097e49de</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>WS2812B</value>
+      <footprint>HalfMarble:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <fields>
+        <field name="COUNT">1</field>
+        <field name="LCSC">C2761795</field>
+        <field name="MANUFACTURER_NAME">Worldsemi</field>
+        <field name="MANUFACTURER_PART_NUMBER">WS2812B-B/W</field>
+      </fields>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="COUNT" value="1"/>
+      <property name="LCSC" value="C2761795"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Worldsemi"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="WS2812B-B/W"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>cb0369a9-5c78-4267-89da-df60204b2f0d</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>YELLOW</value>
+      <footprint>HalfMarble:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">2</field>
+        <field name="LCSC">C91839</field>
+        <field name="MANUFACTURER_NAME">Everlight Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">17-21UYC/S530-A3/TR8</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="LCSC" value="C91839"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Everlight Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="17-21UYC/S530-A3/TR8"/>
+      <property name="COUNT" value="2"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-00006067c0e0</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>GREEN</value>
+      <footprint>HalfMarble:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">21</field>
+        <field name="LCSC">C142303</field>
+        <field name="MANUFACTURER_NAME">Everlight Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">17-21SYGC/S530-E3/TR8 </field>
+      </fields>
+      <libsource lib="NEAToBOARD_ESP32-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="LCSC" value="C142303"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Everlight Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="17-21SYGC/S530-E3/TR8 "/>
+      <property name="COUNT" value="21"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-0000605460fc</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>GREEN</value>
+      <footprint>HalfMarble:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">21</field>
+        <field name="LCSC">C142303</field>
+        <field name="MANUFACTURER_NAME">Everlight Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">17-21SYGC/S530-E3/TR8 </field>
+      </fields>
+      <libsource lib="NEAToBOARD_ESP32-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="LCSC" value="C142303"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Everlight Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="17-21SYGC/S530-E3/TR8 "/>
+      <property name="COUNT" value="21"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-00006054b90b</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>GREEN</value>
+      <footprint>HalfMarble:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">21</field>
+        <field name="LCSC">C142303</field>
+        <field name="MANUFACTURER_NAME">Everlight Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">17-21SYGC/S530-E3/TR8 </field>
+      </fields>
+      <libsource lib="NEAToBOARD_ESP32-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="LCSC" value="C142303"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Everlight Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="17-21SYGC/S530-E3/TR8 "/>
+      <property name="COUNT" value="21"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-0000605558fc</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>GREEN</value>
+      <footprint>HalfMarble:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">21</field>
+        <field name="LCSC">C142303</field>
+        <field name="MANUFACTURER_NAME">Everlight Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">17-21SYGC/S530-E3/TR8 </field>
+      </fields>
+      <libsource lib="NEAToBOARD_ESP32-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="LCSC" value="C142303"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Everlight Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="17-21SYGC/S530-E3/TR8 "/>
+      <property name="COUNT" value="21"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-00006055954a</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>BAT20J</value>
+      <footprint>HalfMarble:D_SOD-123</footprint>
+      <fields>
+        <field name="COUNT">3</field>
+        <field name="LCSC">C8598</field>
+        <field name="MANUFACTURER_NAME">Changjiang Electronics Tech (CJ)</field>
+        <field name="MANUFACTURER_PART_NUMBER">B5819W</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky_Small" description="Schottky diode, small symbol"/>
+      <property name="LCSC" value="C8598"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Changjiang Electronics Tech (CJ)"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="B5819W"/>
+      <property name="COUNT" value="3"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>db776b59-3f23-4191-8259-e5f49c142056</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>GREEN</value>
+      <footprint>HalfMarble:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">21</field>
+        <field name="LCSC">C142303</field>
+        <field name="MANUFACTURER_NAME">Everlight Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">17-21SYGC/S530-E3/TR8 </field>
+      </fields>
+      <libsource lib="NEAToBOARD_ESP32-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="LCSC" value="C142303"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Everlight Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="17-21SYGC/S530-E3/TR8 "/>
+      <property name="COUNT" value="21"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-00006054acb5</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>GREEN</value>
+      <footprint>HalfMarble:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">21</field>
+        <field name="LCSC">C142303</field>
+        <field name="MANUFACTURER_NAME">Everlight Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">17-21SYGC/S530-E3/TR8 </field>
+      </fields>
+      <libsource lib="NEAToBOARD_ESP32-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="LCSC" value="C142303"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Everlight Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="17-21SYGC/S530-E3/TR8 "/>
+      <property name="COUNT" value="21"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-00006054c295</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>GREEN</value>
+      <footprint>HalfMarble:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">21</field>
+        <field name="LCSC">C142303</field>
+        <field name="MANUFACTURER_NAME">Everlight Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">17-21SYGC/S530-E3/TR8 </field>
+      </fields>
+      <libsource lib="NEAToBOARD_ESP32-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="LCSC" value="C142303"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Everlight Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="17-21SYGC/S530-E3/TR8 "/>
+      <property name="COUNT" value="21"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-000060555902</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>GREEN</value>
+      <footprint>HalfMarble:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">21</field>
+        <field name="LCSC">C142303</field>
+        <field name="MANUFACTURER_NAME">Everlight Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">17-21SYGC/S530-E3/TR8 </field>
+      </fields>
+      <libsource lib="NEAToBOARD_ESP32-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="LCSC" value="C142303"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Everlight Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="17-21SYGC/S530-E3/TR8 "/>
+      <property name="COUNT" value="21"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-00006055bd52</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>GREEN</value>
+      <footprint>HalfMarble:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">21</field>
+        <field name="LCSC">C142303</field>
+        <field name="MANUFACTURER_NAME">Everlight Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">17-21SYGC/S530-E3/TR8 </field>
+      </fields>
+      <libsource lib="NEAToBOARD_ESP32-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="LCSC" value="C142303"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Everlight Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="17-21SYGC/S530-E3/TR8 "/>
+      <property name="COUNT" value="21"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-0000605558ea</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>GREEN</value>
+      <footprint>HalfMarble:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">21</field>
+        <field name="LCSC">C142303</field>
+        <field name="MANUFACTURER_NAME">Everlight Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">17-21SYGC/S530-E3/TR8 </field>
+      </fields>
+      <libsource lib="NEAToBOARD_ESP32-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="LCSC" value="C142303"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Everlight Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="17-21SYGC/S530-E3/TR8 "/>
+      <property name="COUNT" value="21"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-00006054cc41</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>GREEN</value>
+      <footprint>HalfMarble:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">21</field>
+        <field name="LCSC">C142303</field>
+        <field name="MANUFACTURER_NAME">Everlight Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">17-21SYGC/S530-E3/TR8 </field>
+      </fields>
+      <libsource lib="NEAToBOARD_ESP32-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="LCSC" value="C142303"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Everlight Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="17-21SYGC/S530-E3/TR8 "/>
+      <property name="COUNT" value="21"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-000060559556</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>GREEN</value>
+      <footprint>HalfMarble:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">21</field>
+        <field name="LCSC">C142303</field>
+        <field name="MANUFACTURER_NAME">Everlight Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">17-21SYGC/S530-E3/TR8 </field>
+      </fields>
+      <libsource lib="NEAToBOARD_ESP32-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="LCSC" value="C142303"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Everlight Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="17-21SYGC/S530-E3/TR8 "/>
+      <property name="COUNT" value="21"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-00006055bd58</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>GREEN</value>
+      <footprint>HalfMarble:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">21</field>
+        <field name="LCSC">C142303</field>
+        <field name="MANUFACTURER_NAME">Everlight Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">17-21SYGC/S530-E3/TR8 </field>
+      </fields>
+      <libsource lib="NEAToBOARD_ESP32-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="LCSC" value="C142303"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Everlight Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="17-21SYGC/S530-E3/TR8 "/>
+      <property name="COUNT" value="21"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-00006055953e</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>GREEN</value>
+      <footprint>HalfMarble:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">21</field>
+        <field name="LCSC">C142303</field>
+        <field name="MANUFACTURER_NAME">Everlight Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">17-21SYGC/S530-E3/TR8 </field>
+      </fields>
+      <libsource lib="NEAToBOARD_ESP32-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="LCSC" value="C142303"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Everlight Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="17-21SYGC/S530-E3/TR8 "/>
+      <property name="COUNT" value="21"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-0000605558f0</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>GREEN</value>
+      <footprint>HalfMarble:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">21</field>
+        <field name="LCSC">C142303</field>
+        <field name="MANUFACTURER_NAME">Everlight Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">17-21SYGC/S530-E3/TR8 </field>
+      </fields>
+      <libsource lib="NEAToBOARD_ESP32-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="LCSC" value="C142303"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Everlight Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="17-21SYGC/S530-E3/TR8 "/>
+      <property name="COUNT" value="21"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-000060559550</tstamps>
+    </comp>
+    <comp ref="D24">
+      <value>GREEN</value>
+      <footprint>HalfMarble:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">21</field>
+        <field name="LCSC">C142303</field>
+        <field name="MANUFACTURER_NAME">Everlight Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">17-21SYGC/S530-E3/TR8 </field>
+      </fields>
+      <libsource lib="NEAToBOARD_ESP32-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="LCSC" value="C142303"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Everlight Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="17-21SYGC/S530-E3/TR8 "/>
+      <property name="COUNT" value="21"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-00006055bd5e</tstamps>
+    </comp>
+    <comp ref="D25">
+      <value>RED</value>
+      <footprint>HalfMarble:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">1</field>
+        <field name="LCSC">C72037</field>
+        <field name="MANUFACTURER_NAME">Everlight Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">17-21SURC/S530-A3/TR8 </field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="LCSC" value="C72037"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Everlight Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="17-21SURC/S530-A3/TR8 "/>
+      <property name="COUNT" value="1"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-0000605e92df</tstamps>
+    </comp>
+    <comp ref="D26">
+      <value>GREEN</value>
+      <footprint>HalfMarble:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">21</field>
+        <field name="LCSC">C142303</field>
+        <field name="MANUFACTURER_NAME">Everlight Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">17-21SYGC/S530-E3/TR8 </field>
+      </fields>
+      <libsource lib="NEAToBOARD_ESP32-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="LCSC" value="C142303"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Everlight Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="17-21SYGC/S530-E3/TR8 "/>
+      <property name="COUNT" value="21"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-00006055e1fc</tstamps>
+    </comp>
+    <comp ref="D27">
+      <value>GREEN</value>
+      <footprint>HalfMarble:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">21</field>
+        <field name="LCSC">C142303</field>
+        <field name="MANUFACTURER_NAME">Everlight Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">17-21SYGC/S530-E3/TR8 </field>
+      </fields>
+      <libsource lib="NEAToBOARD_ESP32-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="LCSC" value="C142303"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Everlight Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="17-21SYGC/S530-E3/TR8 "/>
+      <property name="COUNT" value="21"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-0000605558f6</tstamps>
+    </comp>
+    <comp ref="D28">
+      <value>GREEN</value>
+      <footprint>HalfMarble:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">21</field>
+        <field name="LCSC">C142303</field>
+        <field name="MANUFACTURER_NAME">Everlight Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">17-21SYGC/S530-E3/TR8 </field>
+      </fields>
+      <libsource lib="NEAToBOARD_ESP32-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="LCSC" value="C142303"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Everlight Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="17-21SYGC/S530-E3/TR8 "/>
+      <property name="COUNT" value="21"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-000060559544</tstamps>
+    </comp>
+    <comp ref="D29">
+      <value>GREEN</value>
+      <footprint>HalfMarble:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">21</field>
+        <field name="LCSC">C142303</field>
+        <field name="MANUFACTURER_NAME">Everlight Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">17-21SYGC/S530-E3/TR8 </field>
+      </fields>
+      <libsource lib="NEAToBOARD_ESP32-rescue" part="LED_Small_ALT-Device" description=""/>
+      <property name="LCSC" value="C142303"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Everlight Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="17-21SYGC/S530-E3/TR8 "/>
+      <property name="COUNT" value="21"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-00006055bd64</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>Header_01x03</value>
+      <footprint>HalfMarble:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="COUNT">1</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="COUNT" value="1"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>b9c3beb4-8819-4528-9a44-f0e4a859413c</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>Socket_01x05</value>
+      <footprint>HalfMarble:PinSocket_1x05_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="COUNT">3</field>
+        <field name="LCSC">C50950</field>
+        <field name="MANUFACTURER_NAME">BOOMELE(Boom Precision Elec)</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x05" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="COUNT" value="3"/>
+      <property name="LCSC" value="C50950"/>
+      <property name="MANUFACTURER_NAME" value="BOOMELE(Boom Precision Elec)"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-000060c1d29d</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>Header_01x02</value>
+      <footprint>HalfMarble:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="COUNT">11</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="COUNT" value="11"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>87edee19-b854-43bc-80b9-3f6a678fb440</tstamps>
+    </comp>
+    <comp ref="J12">
+      <value>Header_01x01</value>
+      <footprint>HalfMarble:PinHeader_1x01_P2.54mm_Small</footprint>
+      <fields>
+        <field name="COUNT">1</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="COUNT" value="1"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-00006045d23e</tstamps>
+    </comp>
+    <comp ref="J13">
+      <value>Header_01x02</value>
+      <footprint>HalfMarble:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="COUNT">11</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="COUNT" value="11"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-00006097f9ee</tstamps>
+    </comp>
+    <comp ref="J14">
+      <value>Header_01x02</value>
+      <footprint>HalfMarble:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="COUNT">11</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="COUNT" value="11"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>f6ec89b1-16e7-45c6-8c89-6eefcfec62f8</tstamps>
+    </comp>
+    <comp ref="J15">
+      <value>Socket_01x05</value>
+      <footprint>HalfMarble:PinSocket_1x05_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="COUNT">3</field>
+        <field name="LCSC">C50950</field>
+        <field name="MANUFACTURER_NAME">BOOMELE(Boom Precision Elec)</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x05" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="COUNT" value="3"/>
+      <property name="LCSC" value="C50950"/>
+      <property name="MANUFACTURER_NAME" value="BOOMELE(Boom Precision Elec)"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-00006089c58c</tstamps>
+    </comp>
+    <comp ref="J16">
+      <value>Header_01x02</value>
+      <footprint>HalfMarble:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="COUNT">11</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="COUNT" value="11"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>f7c5b711-4af2-4f04-962c-d1c22e262769</tstamps>
+    </comp>
+    <comp ref="J17">
+      <value>Header_01x05</value>
+      <footprint>HalfMarble:PinHeader_1x05_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="COUNT">2</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x05" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="COUNT" value="2"/>
+      <property name="LCSC" value=""/>
+      <property name="MANUFACTURER_NAME" value=""/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>e39473c9-34af-42e2-96dd-88a3bcf95284</tstamps>
+    </comp>
+    <comp ref="J18">
+      <value>Qwiic</value>
+      <footprint>HalfMarble:CONN_BM04B-SRSS-TB(LF)(SN)</footprint>
+      <fields>
+        <field name="COUNT">2</field>
+        <field name="LCSC">C160390</field>
+        <field name="MANUFACTURER_NAME">JST Sales America</field>
+        <field name="MANUFACTURER_PART_NUMBER">BM04B-SRSS-TB(LF)(SN)</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C160390"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="JST Sales America"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="BM04B-SRSS-TB(LF)(SN)"/>
+      <property name="link" value=""/>
+      <property name="COUNT" value="2"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-00006100d022</tstamps>
+    </comp>
+    <comp ref="J19">
+      <value>Header_01x02</value>
+      <footprint>HalfMarble:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="COUNT">11</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="COUNT" value="11"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>44512351-17a1-4f04-9366-f4f01223ccdd</tstamps>
+    </comp>
+    <comp ref="J20">
+      <value>Header_01x02</value>
+      <footprint>HalfMarble:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="COUNT">11</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="COUNT" value="11"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-00006100cffa</tstamps>
+    </comp>
+    <comp ref="J21">
+      <value>Qwiic</value>
+      <footprint>HalfMarble:CONN_BM04B-SRSS-TB(LF)(SN)</footprint>
+      <fields>
+        <field name="COUNT">2</field>
+        <field name="LCSC">C160390</field>
+        <field name="MANUFACTURER_NAME">JST Sales America</field>
+        <field name="MANUFACTURER_PART_NUMBER">BM04B-SRSS-TB(LF)(SN)</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C160390"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="JST Sales America"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="BM04B-SRSS-TB(LF)(SN)"/>
+      <property name="link" value=""/>
+      <property name="COUNT" value="2"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-0000605406af</tstamps>
+    </comp>
+    <comp ref="J22">
+      <value>Header_01x05</value>
+      <footprint>HalfMarble:PinHeader_1x05_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="COUNT">2</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x05" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="COUNT" value="2"/>
+      <property name="LCSC" value=""/>
+      <property name="MANUFACTURER_NAME" value=""/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>9aefff01-8e39-4b14-b371-088b5d3c5402</tstamps>
+    </comp>
+    <comp ref="J23">
+      <value>Header_01x02</value>
+      <footprint>HalfMarble:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="COUNT">11</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="COUNT" value="11"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>51ff1797-4826-4934-9d50-f667b41da910</tstamps>
+    </comp>
+    <comp ref="J24">
+      <value>Header_01x01</value>
+      <footprint>HalfMarble:PinHeader_1x01_P2.54mm_Small</footprint>
+      <fields>
+        <field name="COUNT">1</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="COUNT" value="1"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>d1edf312-d57a-4cd2-ac7f-3deaf9da26bf</tstamps>
+    </comp>
+    <comp ref="J26">
+      <value>Header_01x02</value>
+      <footprint>HalfMarble:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="COUNT">11</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="COUNT" value="11"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-00006091ceaa</tstamps>
+    </comp>
+    <comp ref="J30">
+      <value>Socket_01x05</value>
+      <footprint>HalfMarble:PinSocket_1x05_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="COUNT">3</field>
+        <field name="LCSC">C50950</field>
+        <field name="MANUFACTURER_NAME">BOOMELE(Boom Precision Elec)</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x05" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="COUNT" value="3"/>
+      <property name="LCSC" value="C50950"/>
+      <property name="MANUFACTURER_NAME" value="BOOMELE(Boom Precision Elec)"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-000060559020</tstamps>
+    </comp>
+    <comp ref="J33">
+      <value>Socket_01x02</value>
+      <footprint>HalfMarble:PinSocket_1x02_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="COUNT">1</field>
+        <field name="LCSC">C49661</field>
+        <field name="MANUFACTURER_NAME">BOOMELE(Boom Precision Elec)</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="COUNT" value="1"/>
+      <property name="LCSC" value="C49661"/>
+      <property name="MANUFACTURER_NAME" value="BOOMELE(Boom Precision Elec)"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>57abf90b-add4-4f50-8a9b-9e6af9badfdd</tstamps>
+    </comp>
+    <comp ref="J35">
+      <value>Header_01x02</value>
+      <footprint>HalfMarble:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="COUNT">11</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="COUNT" value="11"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>1783ebf4-e8ad-4433-b90c-4a66147129a5</tstamps>
+    </comp>
+    <comp ref="J38">
+      <value>Socket_01x04</value>
+      <footprint>HalfMarble:PinSocket_1x04_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="COUNT">1</field>
+        <field name="LCSC">C2718488</field>
+        <field name="MANUFACTURER_NAME">BOOMELE(Boom Precision Elec)</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="COUNT" value="1"/>
+      <property name="LCSC" value="C2718488"/>
+      <property name="MANUFACTURER_NAME" value="BOOMELE(Boom Precision Elec)"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>75df1ad1-cb17-4de3-8410-5bbd51c013ec</tstamps>
+    </comp>
+    <comp ref="J42">
+      <value>Header_01x02</value>
+      <footprint>HalfMarble:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="COUNT">11</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="COUNT" value="11"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-000060439d07</tstamps>
+    </comp>
+    <comp ref="J43">
+      <value>Header_01x02</value>
+      <footprint>HalfMarble:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="COUNT">11</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="COUNT" value="11"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-000060439eb2</tstamps>
+    </comp>
+    <comp ref="JP4">
+      <value>Jumper</value>
+      <footprint>HalfMarble:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm_Small</footprint>
+      <libsource lib="NEAToBOARD_ESP32-rescue" part="Jumper-Device" description=""/>
+      <property name="COUNT" value=""/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-00006062ae70</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>2.7K</value>
+      <footprint>HalfMarble:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">9</field>
+        <field name="LCSC">C17530</field>
+        <field name="MANUFACTURER_NAME">Uniroyal Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">0805W8F2701T5E</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C17530"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Uniroyal Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="0805W8F2701T5E"/>
+      <property name="COUNT" value="9"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-00006067c0da</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>10K</value>
+      <footprint>HalfMarble:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">8</field>
+        <field name="LCSC">C17414</field>
+        <field name="MANUFACTURER_NAME">Uniroyal Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">0805W8F1002T5E</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Uniroyal Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="0805W8F1002T5E"/>
+      <property name="COUNT" value="8"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>b65d6520-ec6d-4add-bb53-42ee187b4def</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>10K</value>
+      <footprint>HalfMarble:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">8</field>
+        <field name="LCSC">C17414</field>
+        <field name="MANUFACTURER_NAME">Uniroyal Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">0805W8F1002T5E</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Uniroyal Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="0805W8F1002T5E"/>
+      <property name="COUNT" value="8"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>ebb271b9-9c02-4d5e-9371-71d2eb973649</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>10K</value>
+      <footprint>HalfMarble:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">8</field>
+        <field name="LCSC">C17414</field>
+        <field name="MANUFACTURER_NAME">Uniroyal Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">0805W8F1002T5E</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Uniroyal Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="0805W8F1002T5E"/>
+      <property name="COUNT" value="8"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>c44cdc15-4ee8-4983-9e57-7e78e0fd488a</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>22</value>
+      <footprint>HalfMarble:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">2</field>
+        <field name="LCSC">C17561</field>
+        <field name="MANUFACTURER_NAME">Uniroyal Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">0805W8J0220T5E</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C17561"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Uniroyal Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="0805W8J0220T5E"/>
+      <property name="COUNT" value="2"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>0e30ac24-b15d-46dc-9558-27ebd8d9814c</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>22</value>
+      <footprint>HalfMarble:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">2</field>
+        <field name="LCSC">C17561</field>
+        <field name="MANUFACTURER_NAME">Uniroyal Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">0805W8J0220T5E</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C17561"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Uniroyal Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="0805W8J0220T5E"/>
+      <property name="COUNT" value="2"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>1f29ed67-a722-4397-b32a-e441df8a451b</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>2.7K</value>
+      <footprint>HalfMarble:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">9</field>
+        <field name="LCSC">C17530</field>
+        <field name="MANUFACTURER_NAME">Uniroyal Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">0805W8F2701T5E</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C17530"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Uniroyal Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="0805W8F2701T5E"/>
+      <property name="COUNT" value="9"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-0000603aad5d</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>2.7K</value>
+      <footprint>HalfMarble:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">9</field>
+        <field name="LCSC">C17530</field>
+        <field name="MANUFACTURER_NAME">Uniroyal Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">0805W8F2701T5E</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C17530"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Uniroyal Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="0805W8F2701T5E"/>
+      <property name="COUNT" value="9"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-0000603be509</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>2.7K</value>
+      <footprint>HalfMarble:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">9</field>
+        <field name="LCSC">C17530</field>
+        <field name="MANUFACTURER_NAME">Uniroyal Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">0805W8F2701T5E</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C17530"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Uniroyal Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="0805W8F2701T5E"/>
+      <property name="COUNT" value="9"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-0000603bf225</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>2.7K</value>
+      <footprint>HalfMarble:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">9</field>
+        <field name="LCSC">C17530</field>
+        <field name="MANUFACTURER_NAME">Uniroyal Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">0805W8F2701T5E</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C17530"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Uniroyal Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="0805W8F2701T5E"/>
+      <property name="COUNT" value="9"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-00006052a1d0</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>2.7K</value>
+      <footprint>HalfMarble:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">9</field>
+        <field name="LCSC">C17530</field>
+        <field name="MANUFACTURER_NAME">Uniroyal Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">0805W8F2701T5E</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C17530"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Uniroyal Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="0805W8F2701T5E"/>
+      <property name="COUNT" value="9"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-00006052a1dd</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>2.7K</value>
+      <footprint>HalfMarble:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="COUNT">9</field>
+        <field name="LCSC">C17530</field>
+        <field name="MANUFACTURER_NAME">Uniroyal Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">0805W8F2701T5E</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C17530"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="MANUFACTURER_NAME" value="Uniroyal Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="0805W8F2701T5E"/>
+      <property name="COUNT" value="9"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-0000605e92d9</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>Switch small</value>
+      <footprint>HalfMarble:PTS810SJG250SMTRLFS</footprint>
+      <fields>
+        <field name="COUNT">4</field>
+        <field name="LCSC">C92589</field>
+        <field name="MANUFACTURER_NAME">Korean Hroparts Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">K2-1808SN-A4SW-01</field>
+      </fields>
+      <libsource lib="PTS810SJK250SMTRLFS" part="PTS810SJK250SMTRLFS" description=""/>
+      <property name="MANUFACTURER_NAME" value="Korean Hroparts Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="K2-1808SN-A4SW-01"/>
+      <property name="LCSC" value="C92589"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="COUNT" value="4"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>b31aa74a-4b1e-440d-8386-1b8fa7a784ff</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>Switch small</value>
+      <footprint>HalfMarble:PTS810SJG250SMTRLFS</footprint>
+      <fields>
+        <field name="COUNT">4</field>
+        <field name="LCSC">C92589</field>
+        <field name="MANUFACTURER_NAME">Korean Hroparts Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">K2-1808SN-A4SW-01</field>
+      </fields>
+      <libsource lib="PTS810SJK250SMTRLFS" part="PTS810SJK250SMTRLFS" description=""/>
+      <property name="MANUFACTURER_NAME" value="Korean Hroparts Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="K2-1808SN-A4SW-01"/>
+      <property name="LCSC" value="C92589"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="COUNT" value="4"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-00006056d0ba</tstamps>
+    </comp>
+    <comp ref="SW5">
+      <value>Switch small</value>
+      <footprint>HalfMarble:PTS810SJG250SMTRLFS</footprint>
+      <fields>
+        <field name="COUNT">4</field>
+        <field name="LCSC">C92589</field>
+        <field name="MANUFACTURER_NAME">Korean Hroparts Elec</field>
+        <field name="MANUFACTURER_PART_NUMBER">K2-1808SN-A4SW-01</field>
+      </fields>
+      <libsource lib="PTS810SJK250SMTRLFS" part="PTS810SJK250SMTRLFS" description=""/>
+      <property name="MANUFACTURER_NAME" value="Korean Hroparts Elec"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="K2-1808SN-A4SW-01"/>
+      <property name="LCSC" value="C92589"/>
+      <property name="LCSC_TYPE" value=""/>
+      <property name="COUNT" value="4"/>
+      <property name="Sheetname" value="Sheet604172E7"/>
+      <property name="Sheetfile" value="NEAToBOARD_ESP32Extras.kicad_sch"/>
+      <sheetpath names="/Sheet604172E7/" tstamps="/00000000-0000-0000-0000-0000604172e8/"/>
+      <tstamps>00000000-0000-0000-0000-0000606085fd</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="MouseBite_2">
+      <fields>
+        <field name="Reference">U7</field>
+        <field name="Value">MouseBite_2</field>
+        <field name="Footprint">HalfMarble:MouseBiteHalfPassThrough</field>
+      </fields>
+    </libpart>
+    <libpart lib="Connector" part="USB_B_Micro">
+      <description>USB Micro Type B connector</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>USB*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_B_Micro</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBUS" type="power_out"/>
+        <pin num="2" name="D-" type="bidirectional"/>
+        <pin num="3" name="D+" type="bidirectional"/>
+        <pin num="4" name="ID" type="passive"/>
+        <pin num="5" name="GND" type="power_out"/>
+        <pin num="6" name="Shield" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x01">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x05">
+      <description>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x05</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x06">
+      <description>Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x06</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x14">
+      <description>Generic connector, single row, 01x14, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x14</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal_Small">
+      <description>Two pin crystal, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky_Small">
+      <description>Schottky diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED_Small">
+      <description>Light emitting diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Polyfuse_Small">
+      <description>Resettable fuse, polymeric positive temperature coefficient, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*polyfuse*</fp>
+        <fp>*PTC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Polyfuse_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NPN_BCE">
+      <description>NPN transistor, base/collector/emitter</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NPN_BCE</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Graphic" part="Logo_Open_Hardware_Small">
+      <description>Open Hardware logo, small</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">#LOGO</field>
+        <field name="Value">Logo_Open_Hardware_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="HalfMarble" part="MouseBite">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MouseBite</field>
+      </fields>
+    </libpart>
+    <libpart lib="Interface_USB" part="CH340C">
+      <description>USB serial converter, UART, SOIC-16</description>
+      <docs>https://datasheet.lcsc.com/szlcsc/Jiangsu-Qin-Heng-CH340C_C84681.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x9.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CH340C</field>
+        <field name="Footprint">Package_SO:SOIC-16_3.9x9.9mm_P1.27mm</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/szlcsc/Jiangsu-Qin-Heng-CH340C_C84681.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="TXD" type="output"/>
+        <pin num="3" name="RXD" type="input"/>
+        <pin num="4" name="V3" type="passive"/>
+        <pin num="5" name="UD+" type="bidirectional"/>
+        <pin num="6" name="UD-" type="bidirectional"/>
+        <pin num="7" name="NC" type="no_connect"/>
+        <pin num="8" name="NC" type="no_connect"/>
+        <pin num="9" name="~{CTS}" type="input"/>
+        <pin num="10" name="~{DSR}" type="input"/>
+        <pin num="11" name="~{RI}" type="input"/>
+        <pin num="12" name="~{DCD}" type="input"/>
+        <pin num="13" name="~{DTR}" type="output"/>
+        <pin num="14" name="~{RTS}" type="output"/>
+        <pin num="15" name="R232" type="input"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="LED" part="WS2812B">
+      <description>RGB LED with integrated controller</description>
+      <docs>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</docs>
+      <footprints>
+        <fp>LED*WS2812*PLCC*5.0x5.0mm*P3.2mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">WS2812B</field>
+        <field name="Footprint">LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</field>
+        <field name="Datasheet">https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="DOUT" type="output"/>
+        <pin num="3" name="VSS" type="power_in"/>
+        <pin num="4" name="DIN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="NEAToBOARD_ESP32-rescue" part="Jumper-Device">
+      <footprints>
+        <fp>SolderJumper*</fp>
+        <fp>Jumper*</fp>
+        <fp>TestPoint*2Pads*</fp>
+        <fp>TestPoint*Bridge*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">Jumper-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="NEAToBOARD_ESP32-rescue" part="LED_Small_ALT-Device">
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_Small_ALT-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="NEAToBOARD_ESP32-rescue" part="MOSFET_PCH-SI2309DS-SparkFun-DiscreteSemi">
+      <footprints>
+        <fp>*SOT23-3*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">MOSFET_PCH-SI2309DS-SparkFun-DiscreteSemi</field>
+        <field name="Footprint">SOT23-3</field>
+        <field name="Field4">TRANS-08285</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="bidirectional"/>
+        <pin num="2" name="S" type="bidirectional"/>
+        <pin num="3" name="D" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="PTS810SJK250SMTRLFS" part="PTS810SJK250SMTRLFS">
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">PTS810SJK250SMTRLFS</field>
+        <field name="Footprint">PTS810SJG250SMTRLFS</field>
+        <field name="HEIGHT">mm</field>
+        <field name="RS_PRICE-STOCK">http://uk.rs-online.com/web/p/products/1359396P</field>
+        <field name="RS_PART_NUMBER">1359396P</field>
+        <field name="DESCRIPTION">IP40 Black Button Tactile Switch, SPST-NO 50 mA 3mm Surface Mount</field>
+        <field name="MANUFACTURER_NAME">C &amp; K COMPONENTS</field>
+        <field name="MANUFACTURER_PART_NUMBER">PTS810SJK250SMTRLFS</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="bidirectional"/>
+        <pin num="2" name="2" type="bidirectional"/>
+        <pin num="3" name="3" type="bidirectional"/>
+        <pin num="4" name="4" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="RF_Module" part="ESP32-WROOM-32D">
+      <description>RF Module, ESP32-D0WD SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD</description>
+      <docs>https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf</docs>
+      <footprints>
+        <fp>ESP32?WROOM?32*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ESP32-WROOM-32D</field>
+        <field name="Footprint">RF_Module:ESP32-WROOM-32</field>
+        <field name="Datasheet">https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VDD" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="SENSOR_VP" type="input"/>
+        <pin num="5" name="SENSOR_VN" type="input"/>
+        <pin num="6" name="IO34" type="input"/>
+        <pin num="7" name="IO35" type="input"/>
+        <pin num="8" name="IO32" type="bidirectional"/>
+        <pin num="9" name="IO33" type="bidirectional"/>
+        <pin num="10" name="IO25" type="bidirectional"/>
+        <pin num="11" name="IO26" type="bidirectional"/>
+        <pin num="12" name="IO27" type="bidirectional"/>
+        <pin num="13" name="IO14" type="bidirectional"/>
+        <pin num="14" name="IO12" type="bidirectional"/>
+        <pin num="15" name="GND" type="passive"/>
+        <pin num="16" name="IO13" type="bidirectional"/>
+        <pin num="17" name="SHD/SD2" type="bidirectional"/>
+        <pin num="18" name="SWP/SD3" type="bidirectional"/>
+        <pin num="19" name="SCS/CMD" type="bidirectional"/>
+        <pin num="20" name="SCK/CLK" type="bidirectional"/>
+        <pin num="21" name="SDO/SD0" type="bidirectional"/>
+        <pin num="22" name="SDI/SD1" type="bidirectional"/>
+        <pin num="23" name="IO15" type="bidirectional"/>
+        <pin num="24" name="IO2" type="bidirectional"/>
+        <pin num="25" name="IO0" type="bidirectional"/>
+        <pin num="26" name="IO4" type="bidirectional"/>
+        <pin num="27" name="IO16" type="bidirectional"/>
+        <pin num="28" name="IO17" type="bidirectional"/>
+        <pin num="29" name="IO5" type="bidirectional"/>
+        <pin num="30" name="IO18" type="bidirectional"/>
+        <pin num="31" name="IO19" type="bidirectional"/>
+        <pin num="32" name="NC" type="no_connect"/>
+        <pin num="33" name="IO21" type="bidirectional"/>
+        <pin num="34" name="RXD0/IO3" type="bidirectional"/>
+        <pin num="35" name="TXD0/IO1" type="bidirectional"/>
+        <pin num="36" name="IO22" type="bidirectional"/>
+        <pin num="37" name="IO23" type="bidirectional"/>
+        <pin num="38" name="GND" type="passive"/>
+        <pin num="39" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="ADP7142AUJZ-3.3">
+      <description>200mA, Low Noise, CMOS Low Dropout Regulator, Positive, 3.3V Fixed Output, TSOT-23-5</description>
+      <docs>https://www.analog.com/media/en/technical-documentation/data-sheets/ADP7142.pdf</docs>
+      <footprints>
+        <fp>TSOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ADP7142AUJZ-3.3</field>
+        <field name="Footprint">Package_TO_SOT_SMD:TSOT-23-5</field>
+        <field name="Datasheet">https://www.analog.com/media/en/technical-documentation/data-sheets/ADP7142.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="SENSE/ADJ" type="input"/>
+        <pin num="5" name="VOUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="XC6206PxxxMR">
+      <description>Positive 60-250mA Low Dropout Regulator, Fixed Output, SOT-23</description>
+      <docs>https://www.torexsemi.com/file/xc6206/XC6206.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">XC6206PxxxMR</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://www.torexsemi.com/file/xc6206/XC6206.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="SparkFun-Switches" part="SWITCH_TOGGLE_SPST_RIGHT_ANGLE">
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">SWITCH_TOGGLE_SPST_RIGHT_ANGLE</field>
+        <field name="Field4">PRT-13888</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="halfmarble" part="LOGO">
+      <fields>
+        <field name="Reference">LOGO</field>
+        <field name="Value">LOGO</field>
+      </fields>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Graphic">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Graphic.kicad_sym</uri>
+    </library>
+    <library logical="Interface_USB">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Interface_USB.kicad_sym</uri>
+    </library>
+    <library logical="LED">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//LED.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="RF_Module">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//RF_Module.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Regulator_Linear.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="3V3">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="J10" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J11" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J13" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J15" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J18" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J20" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J21" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J23" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J26" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J33" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J35" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J42" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J43" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+      <node ref="SW3" pin="3" pinfunction="3" pintype="bidirectional"/>
+      <node ref="SW3" pin="4" pinfunction="4" pintype="bidirectional"/>
+      <node ref="SW4" pin="1" pinfunction="1" pintype="bidirectional"/>
+      <node ref="SW4" pin="2" pinfunction="2" pintype="bidirectional"/>
+      <node ref="SW5" pin="1" pinfunction="1" pintype="bidirectional"/>
+      <node ref="SW5" pin="2" pinfunction="2" pintype="bidirectional"/>
+      <node ref="U1" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U2" pin="5" pinfunction="VOUT" pintype="power_out"/>
+    </net>
+    <net code="2" name="3V3USB">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="VO" pintype="power_out"/>
+    </net>
+    <net code="3" name="ALT">
+      <node ref="J10" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J15" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J8" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="J9" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="26" pinfunction="IO4" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="CS">
+      <node ref="J17" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J30" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J8" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="29" pinfunction="IO5" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="D+">
+      <node ref="J1" pin="3" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="UD+" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="D-">
+      <node ref="J1" pin="2" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="U4" pin="6" pinfunction="UD-" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="DC">
+      <node ref="J17" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J30" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J8" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="IO27" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="DTR">
+      <node ref="Q3" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U4" pin="13" pinfunction="~{DTR}" pintype="output"/>
+    </net>
+    <net code="9" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="J1" pin="5" pinfunction="GND" pintype="power_out"/>
+      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J13" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J15" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J18" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J20" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J21" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J23" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J26" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J33" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J35" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J38" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J42" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J43" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J7" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="J7" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="J7" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J8" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J8" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="J8" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="JP4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="SW2" pin="3" pinfunction="3" pintype="bidirectional"/>
+      <node ref="SW2" pin="4" pinfunction="4" pintype="bidirectional"/>
+      <node ref="SW4" pin="3" pinfunction="3" pintype="bidirectional"/>
+      <node ref="SW4" pin="4" pinfunction="4" pintype="bidirectional"/>
+      <node ref="SW5" pin="3" pinfunction="3" pintype="bidirectional"/>
+      <node ref="SW5" pin="4" pinfunction="4" pintype="bidirectional"/>
+      <node ref="U1" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="15" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="38" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="39" pinfunction="GND" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="1" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="10" name="I34">
+      <node ref="J7" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="IO34" pintype="input"/>
+    </net>
+    <net code="11" name="I35">
+      <node ref="J7" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="IO35" pintype="input"/>
+    </net>
+    <net code="12" name="I36">
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="SENSOR_VP" pintype="input"/>
+    </net>
+    <net code="13" name="I39">
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="SENSOR_VN" pintype="input"/>
+    </net>
+    <net code="14" name="IO0">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="Q3" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="IO0" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="IO2">
+      <node ref="J7" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="IO2" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="IO12">
+      <node ref="J5" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J7" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="IO12" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="IO13">
+      <node ref="J5" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J7" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="IO13" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="IO14">
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J7" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="IO14" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="IO15">
+      <node ref="J5" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J7" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="IO15" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="IO25">
+      <node ref="J7" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="IO25" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="IO26">
+      <node ref="J7" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="IO26" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="IO32">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="IO32" pintype="bidirectional"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="23" name="IO33">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="IO33" pintype="bidirectional"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="24" name="MISO">
+      <node ref="J17" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J30" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="31" pinfunction="IO19" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="MOSI">
+      <node ref="J17" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J30" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J8" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="37" pinfunction="IO23" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="Net-(C2-Pad2)">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="J1" pin="6" pinfunction="Shield" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(C7-Pad1)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U4" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U4" pin="4" pinfunction="V3" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(C8-Pad1)">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(D5-Pad1)">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="J24" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D6-Pad4)">
+      <node ref="D6" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="J12" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D7-Pad1)">
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J16" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D10-Pad1)">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D23" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D24" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D29" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D26" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D11-Pad1)">
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D26" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D27" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D28" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D29" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D12-Pad1)">
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J38" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D13-Pad1)">
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D24" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D28" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D13-Pad2)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D23" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D27" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D25-Pad1)">
+      <node ref="D25" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="JP4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D25-Pad2)">
+      <node ref="D25" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(F1-Pad2)">
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="VBUS" pintype="power_out"/>
+    </net>
+    <net code="45" name="Net-(J6-Pad1)">
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="SW1" pin="1" pintype="output"/>
+    </net>
+    <net code="46" name="Net-(J16-Pad1)">
+      <node ref="J16" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="SW3" pin="1" pinfunction="1" pintype="bidirectional"/>
+      <node ref="SW3" pin="2" pinfunction="2" pintype="bidirectional"/>
+    </net>
+    <net code="47" name="Net-(J19-Pad1)">
+      <node ref="J19" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(J19-Pad2)">
+      <node ref="J19" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(J22-Pad1)">
+      <node ref="J22" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(J22-Pad2)">
+      <node ref="J22" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(J22-Pad3)">
+      <node ref="J22" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(J22-Pad4)">
+      <node ref="J22" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(J22-Pad5)">
+      <node ref="J22" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(J38-Pad2)">
+      <node ref="J38" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(J38-Pad3)">
+      <node ref="J38" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(JP1-Pad1)">
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(JP2-Pad1)">
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(Q3-Pad1)">
+      <node ref="Q3" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="60" name="RESET">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J8" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="bidirectional"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="bidirectional"/>
+      <node ref="U1" pin="3" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="61" name="RTS">
+      <node ref="Q2" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U4" pin="14" pinfunction="~{RTS}" pintype="output"/>
+    </net>
+    <net code="62" name="RX">
+      <node ref="J8" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="U1" pin="27" pinfunction="IO16" pintype="bidirectional"/>
+    </net>
+    <net code="63" name="RXD">
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="34" pinfunction="RXD0/IO3" pintype="bidirectional"/>
+      <node ref="U4" pin="2" pinfunction="TXD" pintype="output"/>
+    </net>
+    <net code="64" name="SCK">
+      <node ref="J17" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J30" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="30" pinfunction="IO18" pintype="bidirectional"/>
+    </net>
+    <net code="65" name="SCL">
+      <node ref="J10" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J14" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J15" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J18" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J21" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J8" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="36" pinfunction="IO22" pintype="bidirectional"/>
+    </net>
+    <net code="66" name="SDA">
+      <node ref="J10" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J14" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J15" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J18" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J21" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J8" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="J9" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="33" pinfunction="IO21" pintype="bidirectional"/>
+    </net>
+    <net code="67" name="TX">
+      <node ref="J8" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="U1" pin="28" pinfunction="IO17" pintype="bidirectional"/>
+    </net>
+    <net code="68" name="TXD">
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U1" pin="35" pinfunction="TXD0/IO1" pintype="bidirectional"/>
+      <node ref="U4" pin="3" pinfunction="RXD" pintype="input"/>
+    </net>
+    <net code="69" name="VBAT">
+      <node ref="Q1" pin="3" pinfunction="D" pintype="bidirectional"/>
+      <node ref="SW1" pin="2" pintype="input"/>
+    </net>
+    <net code="70" name="VRAW">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="S" pintype="bidirectional"/>
+      <node ref="U2" pin="1" pinfunction="VIN" pintype="power_in"/>
+      <node ref="U2" pin="3" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="71" name="VUSB">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="G" pintype="bidirectional"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="72" name="unconnected-(J1-Pad4)">
+      <node ref="J1" pin="4" pinfunction="ID" pintype="passive+no_connect"/>
+    </net>
+    <net code="73" name="unconnected-(SW1-Pad3)">
+      <node ref="SW1" pin="3" pintype="output+no_connect"/>
+    </net>
+    <net code="74" name="unconnected-(U1-Pad17)">
+      <node ref="U1" pin="17" pinfunction="SHD/SD2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="75" name="unconnected-(U1-Pad18)">
+      <node ref="U1" pin="18" pinfunction="SWP/SD3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="76" name="unconnected-(U1-Pad19)">
+      <node ref="U1" pin="19" pinfunction="SCS/CMD" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="77" name="unconnected-(U1-Pad20)">
+      <node ref="U1" pin="20" pinfunction="SCK/CLK" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="78" name="unconnected-(U1-Pad21)">
+      <node ref="U1" pin="21" pinfunction="SDO/SD0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="79" name="unconnected-(U1-Pad22)">
+      <node ref="U1" pin="22" pinfunction="SDI/SD1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="80" name="unconnected-(U1-Pad32)">
+      <node ref="U1" pin="32" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="81" name="unconnected-(U2-Pad4)">
+      <node ref="U2" pin="4" pinfunction="SENSE/ADJ" pintype="input+no_connect"/>
+    </net>
+    <net code="82" name="unconnected-(U4-Pad7)">
+      <node ref="U4" pin="7" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="83" name="unconnected-(U4-Pad8)">
+      <node ref="U4" pin="8" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="84" name="unconnected-(U4-Pad9)">
+      <node ref="U4" pin="9" pinfunction="~{CTS}" pintype="input+no_connect"/>
+    </net>
+    <net code="85" name="unconnected-(U4-Pad10)">
+      <node ref="U4" pin="10" pinfunction="~{DSR}" pintype="input+no_connect"/>
+    </net>
+    <net code="86" name="unconnected-(U4-Pad11)">
+      <node ref="U4" pin="11" pinfunction="~{RI}" pintype="input+no_connect"/>
+    </net>
+    <net code="87" name="unconnected-(U4-Pad12)">
+      <node ref="U4" pin="12" pinfunction="~{DCD}" pintype="input+no_connect"/>
+    </net>
+    <net code="88" name="unconnected-(U4-Pad15)">
+      <node ref="U4" pin="15" pinfunction="R232" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>
