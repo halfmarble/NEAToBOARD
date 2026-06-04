@@ -25,7 +25,7 @@
     (solder_mask_margin 0.1016) (tstamp 9b422295-87a5-4f56-8786-b666e513b744))
   (pad "E" smd rect (at 0.8128 0) (size 0.99568 0.79756) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.1016) (tstamp be87a53d-031d-4a3c-a0e6-9b096529040e))
-  (model "${KIPRJMOD}/symbols/ALS-PT19.STEP"
+  (model "${KIPRJMOD}/HalfMarble.3dshapes/ALS-PT19.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

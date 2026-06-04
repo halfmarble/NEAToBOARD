@@ -1,1 +1,4 @@
 .DS_Store
+
+# LibreOffice / office app lock files
+.~lock.*#
