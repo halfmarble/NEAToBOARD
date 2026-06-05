@@ -1,0 +1,13 @@
+@page { size: A4; margin: 22mm 20mm; }
+html { -webkit-print-color-adjust: exact; }
+body { font-family: -apple-system, "Helvetica Neue", Arial, sans-serif; font-size: 10.5pt; line-height: 1.5; color: #1a1a1a; max-width: 100%; }
+h1 { font-size: 17pt; line-height: 1.25; border-bottom: 2px solid #8a1c1c; padding-bottom: 8px; }
+h2 { font-size: 13pt; margin-top: 1.4em; color: #8a1c1c; border-bottom: 1px solid #ddd; padding-bottom: 3px; }
+h3 { font-size: 11pt; }
+code { font-family: "SF Mono", Menlo, Consolas, monospace; font-size: 9pt; background: #f4f4f4; padding: 1px 3px; border-radius: 3px; }
+pre code { display: block; padding: 8px; }
+blockquote { border-left: 3px solid #8a1c1c; margin-left: 0; padding: 2px 14px; background: #faf6f6; color: #333; }
+a { color: #0b5; word-break: break-all; }
+table { border-collapse: collapse; width: 100%; font-size: 9.5pt; }
+th, td { border: 1px solid #ccc; padding: 4px 7px; text-align: left; vertical-align: top; }
+hr { border: none; border-top: 1px solid #ccc; }

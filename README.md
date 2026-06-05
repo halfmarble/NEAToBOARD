@@ -50,9 +50,23 @@ There is no firmware in this repository — NEAToBOARD runs **any ESP32 firmware
 
 The pin layout is based on the **DFRobot FireBeetle ESP32** (with parts of **Adafruit's ESP32 board**). The simplest path is to target the **FireBeetle ESP32** board definition / pin map — most pins line up. If you select a different board definition, expect to **re-map a few GPIO assignments** to match this board; cross-check against the [pinout diagram](docs/NEAToBOARD_ESP32_pinout.jpg) and the [schematic](docs/NEAToBOARD_ESP32.pdf).
 
+## Defensive publication / prior art
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20558155.svg)](https://doi.org/10.5281/zenodo.20558155)
+
+[`docs/defensive-publication/`](docs/defensive-publication/) contains a defensive
+publication — *Synchronized Multi-Line Digital Signal Generation Using Plural Independent
+Software-Triggered Serializer Peripherals With Open-Loop Fixed Start-Skew Compensation*
+(DOI [10.5281/zenodo.20558155](https://doi.org/10.5281/zenodo.20558155)) — together with
+load-bearing source excerpts. It documents, as dated public prior art, a technique for
+synthesizing a USB full-speed D−/D+ differential signal on an ESP32 (a board like this
+one) by driving two independent SPI controllers in lock-step: a CPU-fenced back-to-back
+start makes the inter-unit skew deterministic, and a fixed configured MOSI delay cancels
+it open-loop. It is published defensively to keep the technique freely practicable by all.
+
 ## License
 
-The hardware design — schematic, PCB layout, footprint and 3D-model libraries, and the rest of the design files in this repository — is licensed under the **CERN Open Hardware Licence Version 2 – Permissive (CERN-OHL-P-2.0)**. See [`LICENSE`](LICENSE) for the full text.
+The hardware design — schematic, PCB layout, footprint and 3D-model libraries, and the rest of the design files in this repository — is licensed under the **CERN Open Hardware Licence Version 2 – Permissive (CERN-OHL-P-2.0)**. See [`LICENSE`](LICENSE) for the full text. The defensive-publication document under [`docs/defensive-publication/`](docs/defensive-publication/) is licensed CC-BY-4.0, and the source excerpts therein retain their original Apache-2.0 headers.
 
 > Copyright halfmarble 2023.
 >
