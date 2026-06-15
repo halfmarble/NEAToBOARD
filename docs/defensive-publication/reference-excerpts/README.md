@@ -3,7 +3,7 @@
 These files are **excerpts** from the author's private *ubbUSB* project (an Espressif
 ESP-IDF / PlatformIO firmware experiment), included to make the accompanying defensive
 publication — [`../DEFENSIVE_PUBLICATION.md`](../DEFENSIVE_PUBLICATION.md),
-DOI [10.5281/zenodo.20558155](https://doi.org/10.5281/zenodo.20558155) — *enabling* on its
+Technical Disclosure Commons [dpubs_series/10442](https://www.tdcommons.org/dpubs_series/10442) — *enabling* on its
 core claims.
 
 They are provided **as-is, under the Apache License 2.0** (see the header in each file),

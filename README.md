@@ -52,12 +52,12 @@ The pin layout is based on the **DFRobot FireBeetle ESP32** (with parts of **Ada
 
 ## Defensive publication / prior art
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20558155.svg)](https://doi.org/10.5281/zenodo.20558155)
-
 [`docs/defensive-publication/`](docs/defensive-publication/) contains a defensive
 publication — *Synchronized Multi-Line Digital Signal Generation Using Plural Independent
-Software-Triggered Serializer Peripherals With Open-Loop Fixed Start-Skew Compensation*
-(DOI [10.5281/zenodo.20558155](https://doi.org/10.5281/zenodo.20558155)) — together with
+Software-Triggered Serializer Peripherals With Open-Loop Fixed Start-Skew Compensation* —
+published in the **Technical Disclosure Commons**, Defensive Publications Series
+([www.tdcommons.org/dpubs_series/10442](https://www.tdcommons.org/dpubs_series/10442)), an
+examiner-searched prior-art database, together with
 load-bearing source excerpts. It documents, as dated public prior art, a technique for
 synthesizing a USB full-speed D−/D+ differential signal on an ESP32 (a board like this
 one) by driving two independent SPI controllers in lock-step: a CPU-fenced back-to-back

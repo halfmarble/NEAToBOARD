@@ -3,12 +3,12 @@
 **A Defensive Publication / Technical Disclosure to Establish Prior Art**
 
 **Author:** Gerard Ziemski (Halfmarble LLC)
-**DOI:** [10.5281/zenodo.20558155](https://doi.org/10.5281/zenodo.20558155)
+**Published:** Technical Disclosure Commons, Defensive Publications Series — [dpubs_series/10442](https://www.tdcommons.org/dpubs_series/10442)
 **Date of first public disclosure:** 2026-06-05
 **Version:** 1.0
 **License:** Creative Commons Attribution 4.0 International (CC-BY-4.0).
 *(The prior-art effect derives from the dated, enabling public disclosure itself, not from the license.)*
-**Venue:** Zenodo, archived alongside the [halfmarble/NEAToBOARD](https://github.com/halfmarble/NEAToBOARD) open-hardware project.
+**Venue:** Technical Disclosure Commons, archived alongside the [halfmarble/NEAToBOARD](https://github.com/halfmarble/NEAToBOARD) open-hardware project.
 
 ---
 
@@ -330,5 +330,5 @@ https://www.freepatentsonline.com/8132040.html
 ---
 
 *Prepared as a defensive publication. Not legal advice. Depositing this document publicly
-(Zenodo DOI [10.5281/zenodo.20558155](https://doi.org/10.5281/zenodo.20558155); GitHub) is
+(Technical Disclosure Commons [dpubs_series/10442](https://www.tdcommons.org/dpubs_series/10442); GitHub) is
 a public disclosure establishing prior art as of the date above.*
