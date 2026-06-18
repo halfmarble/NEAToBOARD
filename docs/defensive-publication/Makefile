@@ -1,7 +1,8 @@
 # Regenerate defensive_publication.pdf from the markdown source.
 #
-# This is the exact recipe used to produce the PDF deposited on Zenodo
-# (DOI 10.5281/zenodo.20558155). The PDF is committed for convenience; run
+# This is the exact recipe used to produce the PDF published in the
+# Technical Disclosure Commons (www.tdcommons.org/dpubs_series/10442).
+# The PDF is committed for convenience; run
 # `make pdf` to reproduce it from DEFENSIVE_PUBLICATION.md + style.css.
 #
 # Requirements:
@@ -16,7 +17,7 @@ SRC   := DEFENSIVE_PUBLICATION.md
 CSS   := style.css
 HTML  := defensive_publication.html
 PDF   := defensive_publication.pdf
-TITLE := Defensive Publication 10.5281/zenodo.20558155
+TITLE := Defensive Publication tdcommons.org/dpubs_series/10442
 
 CHROME ?= /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
 
